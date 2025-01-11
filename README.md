@@ -1,5 +1,5 @@
 # Data Analysis of Laziz Pizza
-##This project analyzes Laziz Pizza sales data using a combination of MS Excel, Power BI, and MySQL. Provides insights into sales trends, customer preferences, and areas for improvement.
+## This project analyzes Laziz Pizza sales data using a combination of MS Excel, Power BI, and MySQL. Provides insights into sales trends, customer preferences, and areas for improvement.
 
 - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Laziz%20Pizza%20Dashboard.pbix">Power BI Dataset</a>
 
