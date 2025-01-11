@@ -5,20 +5,24 @@
 
 - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/laziz%20pizza%20SQL.pdf">View SQL PDF</a>
 
-- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/order_details.csv">View Order Details MS Excel Dataset </a>
+## MS Excel Dataset
 
-- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/orders.csv">View Orders MS Excel Dataset
+- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/order_details.csv">View Order Details </a>
+
+- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/orders.csv">View Orders
 
 - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-
-Pizza/blob/main/pizza_types.csv">View Pizza Type MS Excel Dataset
+Pizza/blob/main/pizza_types.csv">View Pizza Type
 
-- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/pizzas.csv">View Pizzas MS Excel Dataset
+- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/pizzas.csv">View Pizzas
+
+## Images
 
 - - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Laziz%20Pizza%20Front%20Page1.png">View Profile Image </a>
 
--- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Overview%20Page.png">View Overview Page</a>
+- - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Overview%20Page.png">View Overview Page</a>
 
--- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Pizza%20Details.png">View Pizza Details Page</a>
+- - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Pizza%20Details.png">View Pizza Details Page</a>
 
 ## Overview
 - This dashboard provides an overview of Laziz Pizza's sales performance from January 1, 2015, to December 31, 2015. Key metrics include total sales of 818K, a total quantity of 50K, and 32 unique pizzas sold. The average quantity sold per day is 138.47, with an average price of 16.44. The dashboard also shows order counts by hour, revealing peak order times. Monthly revenue trends are visualized, highlighting seasonal variations. Revenue breakdowns are presented based on food type (Veg and Non-Veg), category (Veggie, Classic, Chicken, Supreme), and pizza size (M, L, XL).
