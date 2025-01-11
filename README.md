@@ -14,6 +14,12 @@ Pizza/blob/main/pizza_types.csv">View Pizza Type MS Excel Dataset
 
 - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/pizzas.csv">View Pizzas MS Excel Dataset
 
+- - <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Laziz%20Pizza%20Front%20Page1.png">View Profile Image </a>
+
+- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Overview%20Page.png">View Overview Page</a>
+
+- <a href= "https://github.com/shubhamdabi2024/Data-Analysis-Of-Laziz-Pizza/blob/main/Pizza%20Details.png">View Pizza Details Page</a>
+
 ## Overview
 - This dashboard provides an overview of Laziz Pizza's sales performance from January 1, 2015, to December 31, 2015. Key metrics include total sales of 818K, a total quantity of 50K, and 32 unique pizzas sold. The average quantity sold per day is 138.47, with an average price of 16.44. The dashboard also shows order counts by hour, revealing peak order times. Monthly revenue trends are visualized, highlighting seasonal variations. Revenue breakdowns are presented based on food type (Veg and Non-Veg), category (Veggie, Classic, Chicken, Supreme), and pizza size (M, L, XL).
 - The Second dashboard for Laziz Pizza provides a comprehensive overview of 2015 sales data, highlighting a total of 49,574 pizzas sold with an average daily sales figure of 138 pizzas and a daily revenue of 2,285. The dashboard is equipped with a bar chart showcasing 32 pizza varieties, where "The Classic Deluxe Pizza" ranks highest in sales. Interactive filters allow for data refinement by quantity or revenue, offering detailed insights into the business's performance throughout the year.
